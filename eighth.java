@@ -2,7 +2,7 @@ import java.util.*;
 
 public class eighth {
 
-    // Function to input an array
+   
     static int[] inputArray(Scanner sc, int n) {
         int[] arr = new int[n];
 
